@@ -1,3 +1,5 @@
+DATA STRUCTURES AND ALGORITHMS IN C
+
 This repository contains implementations of fundamental data structures and algorithms in the C programming language. It serves as a resource for students, developers, and anyone interested in understanding how these concepts are implemented at a low level.
 
 Table of Contents
