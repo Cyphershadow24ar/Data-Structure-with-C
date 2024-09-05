@@ -2,7 +2,7 @@ DATA STRUCTURES AND ALGORITHMS IN C
 
 This repository contains implementations of fundamental data structures and algorithms in the C programming language. It serves as a resource for students, developers, and anyone interested in understanding how these concepts are implemented at a low level.
 
-Table of Contents
+# Table of Contents
 -> About
 -> Getting Started
 -> Data Structures
@@ -10,29 +10,29 @@ Table of Contents
 -> Contributing
 -> Acknowledgements
 
-About
+# About
 The purpose of this repository is to provide clear and concise C implementations of essential data structures and algorithms. 
 Each implementation is accompanied by a description and, where applicable, a demonstration of how it can be used.
 
-Getting Started
+# Getting Started
 
-Prerequisites
+# Prerequisites
 -> Basic understanding of C programming
 -> A C compiler (e.g., GCC)
 
--> Installation
+# -> Installation
    Clone the repository:
    bash : git clone https://github.com/your-username/your-repo-name.git cd your-repo-name
           cd your-repo-name
--> Compile the code:
+# -> Compile the code:
   Navigate to the folder containing the data structure or algorithm you want to run and compile the C file.
   bash : gcc example.c -o example
   
--> Run the program:
+# -> Run the program:
    bash: ./example
    
-Data Structures
--> Linear Data Structures
+# Data Structures
+# -> Linear Data Structures
    Arrays
    Linked Lists
    Singly Linked List
@@ -40,7 +40,7 @@ Data Structures
    Stacks
    Queues
    
--> Non-Linear Data Structures
+# -> Non-Linear Data Structures
    Trees
    Binary Trees
    Binary Search Trees
@@ -49,12 +49,12 @@ Data Structures
    Adjacency Matrix
    Adjacency List
    
--> Other Data Structures
+# -> Other Data Structures
    Hash Tables
    Heaps
    Tries
 
--> Algorithms
+# -> Algorithms
    Sorting Algorithms
    Bubble Sort
    Merge Sort
@@ -62,17 +62,17 @@ Data Structures
    Insertion Sort
    Selection Sort
    
--> Searching Algorithms
+# -> Searching Algorithms
    Linear Search
    Binary Search
    
--> Graph Algorithms
+# -> Graph Algorithms
    Depth-First Search (DFS)
    Breadth-First Search (BFS)
    Dijkstra’s Algorithm
    prim's algorithm
 
--> Contributing
+# -> Contributing
    -> Contributions are welcome! To contribute:
       1. Fork the repository.
       2. Create a new branch (git checkout -b feature-branch).
@@ -82,7 +82,7 @@ Data Structures
       
 Please ensure that your contributions are well-documented and tested.
 
--> Acknowledgements
+# -> Acknowledgements
    The C Programming Language by Kernighan and Ritchie
    GeeksforGeeks
    w3school - https://www.w3schools.com/c/index.php
